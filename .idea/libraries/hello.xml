@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hello">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hello/hello.zip!/" />
+      <root url="jar://$PROJECT_DIR$/hello/percolation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
